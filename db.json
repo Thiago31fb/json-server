@@ -12,5 +12,60 @@
       "author": "yoshi",
       "id": 2
     }
-    ]
+    ],
+   "projects": [
+    {
+      "name": "projeto 002",
+      "budget": "6000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 2
+    },
+    {
+      "budget": "4000",
+      "name": "ThiagoVf",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1050,
+      "service": [
+        {
+          "name": "AWS",
+          "cost": "600",
+          "description": "AWS",
+          "id": "73e98946-ff49-499b-b2d0-b129685b43cf"
+        },
+        {
+          "name": "com rele",
+          "cost": "450",
+          "description": "yy",
+          "id": "920977fa-96bf-4c0b-b118-90940afadcf7"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
