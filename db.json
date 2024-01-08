@@ -67,5 +67,35 @@
       "id": 4,
       "name": "Planejamento"
     }
+  ],
+  "apartamentos": [
+    {
+      "id": 1,
+      "responsavel": "Maria",
+      "apartamento": "101"
+    },
+    {
+      "id": 2,
+      "responsavel": "Roberto",
+      "apartamento": "102"
+    }
+  ],
+  "visitantes": [
+    {
+      "id": 1,
+      "nome": "Luiz",
+      "sobrenome": "Soares",
+      "empresa": "Uniflex",
+      "identidade": "MG12345755"
+    }
+  ],
+  "visitas": [
+    {
+      "id": 1,
+      "apartamentoId": 1,
+      "visitanteId": 1,
+      "entrada": "8/1/2024 11:43:37",
+      "saida": ""
+    }
   ]
 }
