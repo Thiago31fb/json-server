@@ -12,8 +12,8 @@
       "author": "yoshi",
       "id": 2
     }
-    ],
-   "projects": [
+  ],
+  "projects": [
     {
       "name": "projeto 002",
       "budget": "6000",
@@ -96,6 +96,60 @@
       "visitanteId": 1,
       "entrada": "8/1/2024 11:43:37",
       "saida": ""
+    }
+  ],
+  "showProjects": [
+    {
+      "id": 1,
+      "nome": "Clima App",
+      "color": "#666",
+      "img": "/imgsProjetos/climaApp.PNG",
+      "link": "https://climate-app-nine.vercel.app",
+      "gitHub": "https://github.com/Thiago31fb/climate-app",
+      "descricao": "Este é um aplicativo simples que fornece informações climáticas de uma cidade. Ele utiliza a API de tempo para obter os dados meteorológicos em tempo real.",
+      "funcionalidades": [
+        {
+          "tipo": "Pesquisa por Cidade",
+          "comoUsar": "Digite o nome da cidade desejada para obter as informações climáticas"
+        },
+        {
+          "tipo": "Exibição Detalhada",
+          "comoUsar": "Veja detalhes como temperatura, umidade, velocidade do vento, etc"
+        },
+        {
+          "tipo": "Sugestões de Cidades",
+          "comoUsar": "Sugestões automáticas de cidades com base nas pesquisas anteriores"
+        }
+      ],
+      "tecnologias": [
+        {
+          "nome": "react",
+          "link": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "moviesLib",
+      "color": "#7a541c",
+      "img": "/imgsProjetos/moviesLib.PNG",
+      "link": "https://thiago31fb.github.io/MoviesLib/",
+      "gitHub": "https://github.com/Thiago31fb/MoviesLib",
+      "descricao": "O MovieApp é uma aplicação que proporciona informações sobre filmes. Explore uma vasta coleção cinematográfica e descubra detalhes sobre as suas produções favoritas.",
+      "funcionalidades": [
+        {
+          "tipo": "Pesquisa de Filmes",
+          "comoUsar": "Encontre facilmente informações sobre qualquer filme digitando o seu nome"
+        },
+        {
+          "tipo": "Detalhes do Filme",
+          "comoUsar": " Visualize informações detalhadas, como protutoras, orçamento, receita gerada, avaliações e sinopse"
+        }
+      ],
+      "tecnologias": {
+        "nome": "react",
+        "link": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      }
     }
   ]
 }
