@@ -146,10 +146,12 @@
           "comoUsar": " Visualize informações detalhadas, como protutoras, orçamento, receita gerada, avaliações e sinopse"
         }
       ],
-      "tecnologias": {
-        "nome": "react",
-        "link": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      }
+      "tecnologias": [
+        {
+          "nome": "react",
+          "link": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        }
+      ]
     }
   ]
 }
